@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+
+  <title>Kész weblap</title>
+ </head>
+ <body>
+  
+<body style="background:transparent; color:white; font-size:12pt; font-family:tahoma">
+
+<br><br><br><br>
+<img src="kepek/vezszerv.png" height="400" border="0" alt="" style="float:right">
+
+<font style="font-size:14pt"><b>Vezetés-szervezés</b></font>
+ <br><br>
+ Oktató(k): <strong><em> Veresné dr. Somosi Mariann Éva</em></strong>
+ <br><br>
+ <b>Tantárgy tematikus leírása:</b>
+ <ul>
+ <li>1.Bevezetés. A kontingenciaelmélet
+ <li>2.Vezetési tevékenység és vezetési funkciók. 
+ <li>3.Célkitűzés és stratégiaalkotás.
+ <li>4.Szervezeti strukturális jellemzők. 
+ <li>5.Szervezeti modellek: egyszerű szervezet, funkcionális szervezet. 
+ <li>6.Divizionális szervezet, mátrix szervezet. 
+ <li>7.Szervezettervezés, folyamatszervezés. 
+ <li>9.Motiváció. 
+ <li>10.Vezetési stílus és vezetési szerepek.
+ <li>11.Oktatási szünet
+ <li>12.Kommunikáció.
+ <li>13.Csoportok létrehozása és vezetése.
+ <li>14.Kontroll. 
+
+</ul>
+
+
+</body>
+</html>

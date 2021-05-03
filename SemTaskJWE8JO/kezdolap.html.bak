@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Weblap készítése</title>
+ </head>
+
+ <body style="background:transparent; color:white; font-family:tahoma; font-size:12pt">
+ <br><br>
+
+ <b>Beadandó feladat Görcsös Gábor JWE8JO</b>
+
+ <br><br>
+
+ A főoldalra való visszalépés a Miskolci Egyetem logóra kattintva lehetséges.
+
+ <br><br>
+
+ <b>Miskolci Egyetem rövid bemutatása:</b>
+
+ <br>
+
+ A Miskolci Egyetem (röviden: ME, angolul: University of Miskolc) felsőoktatási intézmény Miskolcon.
+ <br>  
+ Az intézmény valódi universitasként, hét karon és egy intézetben széles képzési területet kínál: földtudományi, anyagtudományi, gépész és informatikai, jogtudományi, gazdaságtudományi, bölcsészettudományi, zeneművészeti és egészségügyi képzésben részesülhetnek az ide jelentkezők, és közel száz tanszék található az egyetemen.
+  
+ </body>
+</html>
